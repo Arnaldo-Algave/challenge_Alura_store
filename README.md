@@ -15,23 +15,34 @@ O caso proposto consistia em responder à pergunta:
 
 Foram avaliados:
 
-- Faturamento total por loja  
-- Produtos mais e menos vendidos por loja 
+- Faturamento total por loja
+
+<img src="https://github.com/user-attachments/assets/60834a22-1c38-4770-a396-33da338f8937" height="350">
+
+- Produtos mais e menos vendidos por loja
+
+<img src="https://github.com/user-attachments/assets/6a3abf45-b6aa-4275-be5f-a9a3c6a9f02d" height="350">
+
 - Categorias mais e menos vendida por loja
+
+<img src="https://github.com/user-attachments/assets/b970cd71-98d2-4c20-8e4c-7276e8dc6dd5" height="350">
+
 - Média de avaliação dos clientes por loja
+
+<img src="https://github.com/user-attachments/assets/a2890519-fe53-4fe1-b414-1d2190d15469" height="350">
+
 - Custo médio de frete pro loja
-  <p>
-    <img scr="https://github.com/user-attachments/assets/30c5616f-2f7a-4af4-823a-11b51e970161" width="320">
-  </p> 
+
+<img src="https://github.com/user-attachments/assets/924c3959-e22e-4ce8-a1c1-18d01bcb86f4" height="350">
+
 
 ---
 
-##  *Tecnologias Utilizadas*
+## *Ferramentas Utilizadas*
 
 - **Python**
 - **Pandas**
 - **Matplotlib**
-- **Seaborn**
 - **NumPy** 
 
 ---
@@ -44,11 +55,10 @@ A **Loja 04** foi identificada como a unidade com pior desempenho geral, apresen
 </p>
 
 
-- Menor faturamento  
-- Baixo desempenho em categorias  
-- Produtos com baixa saída  
-- Avaliações inferiores  
-- Menor presença em áreas de alta demanda  
+- Menor faturamento total
+- Menor consistência nas categorias de venda
+- Produtos de baixa saída
+- Avaliações ligeiramente inferiores
 
  **Recomenda-se sua venda como decisão estratégica.**
 
