@@ -55,10 +55,9 @@ A **Loja 04** foi identificada como a unidade com pior desempenho geral, apresen
 </p>
 
 
-- Menor faturamento total
-- Menor consistência nas categorias de venda
-- Produtos de baixa saída
-- Avaliações ligeiramente inferiores
+-  Menor faturamento total
+-  Menor consistência nas categorias de venda
+
 
  **Recomenda-se sua venda como decisão estratégica.**
 
