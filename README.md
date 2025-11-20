@@ -9,7 +9,7 @@ A análise foi realizada utilizando **Python**, com foco em boas práticas de ma
 ---
 
 ## *Objetivo do Projeto*
-O caso proposto consistia em responder à pergunta:
+O caso proposto consistia em responder ao senhor João à seguinte pergunta:
 
 **“Qual loja da sua rede Alura Store vender para iniciar um novo empreendimento?”**
 
